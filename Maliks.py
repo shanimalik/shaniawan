@@ -88,4 +88,4 @@ logo = """
 
 def tik():
 	titik = ['.   ','..  ','... ']
-	for o in t
+	for o to t
